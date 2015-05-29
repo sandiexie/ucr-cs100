@@ -1,2 +1,22 @@
-/ 100
+0/ 100
+make gives warnings and doesn't compile on hammer/cs100: see me on office hours
+-25: cppcheck gives warnings
+
+Error checking for syscalls
+
+file: [src/ls.cpp] -0
+
+
+test ls output
++15: Extra - coloring works
+
+-5: file list doesn't match ls order
+
+-5: file list doesn't match ls -l order
+
+-5: file list doesn't match ls -a order
+
+-5: file list doesn't match ls -R order
+
+
 
