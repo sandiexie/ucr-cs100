@@ -1,0 +1,12 @@
+50/100
+Last update Sun May 17 21:48:25 2015 -0700
+
+
+-25: cppcheck gives warnings
+
+Error checking for syscalls
+file: [src/ls.cpp] -40
+
+
++15: Extra - coloring works
+
